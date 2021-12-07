@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @minjeongkoo
-- 👀 I’m interested in User Accessibility
-- 🌱 I’m currently learning UI Development of VR Devices
+- 😶 Hi, I’m @minjeongkoo
+- 🪴 I’m interested in User Accessibility
+- 📖 I’m currently learning UI Development of VR Devices
 - 💞️ http://4thevision.com/
 - 📨 https://twitter.com/sansikenzo
