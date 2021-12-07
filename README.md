@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @minjeongkoo
+- 👀 I’m interested in User Accessibility
+- 🌱 I’m currently learning VR UI Development
+- 💞️ I’m looking to collaborate on Scrollads
+- 📫 How to reach me Twitter: REKENZO_
