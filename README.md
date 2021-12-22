@@ -1,5 +1,4 @@
-- 😶 Hi, I’m @minjeongkoo
-- 🪴 I’m interested in User Accessibility
-- 📖 I’m currently learning UI Development of VR Devices
-- 💞️ http://4thevision.com/
-- 📨 https://twitter.com/sansikenzo
+- 웹 접근성에 관심이 많습니다.
+- 최근에는 Unity에서 VR GUI 개발을 배우기 시작했습니다.
+- 포더비전과 함께하고 있어요. http://4thevision.com/
+- 연락처: https://twitter.com/sansikenzo
