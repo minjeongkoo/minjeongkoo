@@ -1,4 +1,2 @@
-- 웹 접근성에 관심이 많습니다.
-- 최근에는 Unity에서 VR GUI 개발을 배우기 시작했습니다.
-- 포더비전과 함께하고 있어요. http://4thevision.com/
-- 연락처: https://twitter.com/sansikenzo
+- Web, VR App GUI 디자인 및 구현을 하고 있습니다.
+- Vue.js를 선호합니다
