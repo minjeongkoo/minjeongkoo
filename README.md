@@ -7,5 +7,6 @@
 ## Company
 - 예비 사회적 기업 컴퍼니봄봄과 함께하고 있습니다 [www.companybb.com](www.companybb.com)
 
+## SNS
 **x.com** : 
 https://twitter.com/sansikenzo
