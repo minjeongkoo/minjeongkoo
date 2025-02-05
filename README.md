@@ -12,11 +12,8 @@
 
 ## My Go-To Tools
 - Node.js
-- Vue.js
-- Discord.js
-- Swift UI
+- Vue.js / Discord.js
 - Figma
-- Unity Engine
 
 ## Connect with Me
 - Discord DM: @rekenzo_
