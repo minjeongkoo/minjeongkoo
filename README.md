@@ -12,4 +12,4 @@ I am working with the goal of creating a systematic web service that everyone ca
 - Figma
 
 ## Connect with Me
-- Discord DM: @rekenzo_
+- Discord DM: rekenzo#3030
