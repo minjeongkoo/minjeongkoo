@@ -1,9 +1,5 @@
-## Hey there! 🙌
-- I’m building this service with one simple hope: to bring a little more joy into people’s lives.
-
-## My Mission
-- Creating a web where everyone has equal access is my ultimate goal.
-- And of course, I want to make things fun and engaging!
+## Hi 👋
+I am working with the goal of creating a systematic web service that everyone can access equally.
 
 ## What I'm Working On
 - Front-end web development
