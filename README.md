@@ -1,15 +1,12 @@
-## Hi 👋
-I am working with the goal of creating a systematic web service that everyone can access equally.
+Hi :D
+My goal is to develop human-centered software that ensures everyone can work in a safe environment. I'm currently working on a web service that utilizes industrial data for monitoring and hazard detection.
 
-## My Role
-- Front-end web development
-- Designing GUIs across platforms (Web, Mobile, VR)
-- Developing and launching Discord Apps (Bots)
+## My Tech Stack
 
-## I Love
-- Node.js
-- Vue.js / Discord.js
-- Figma
+- Primary Language: JavaScript
+- Favorite Frameworks: Node.js, Discord.js, Vue.js
+- Currently Learning: Python, Unity Engine
+- Etc: GUI Design (Web, Mobile App, VR App)
 
 ## Connect with Me
 - Discord DM: rekenzo#3030
