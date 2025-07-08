@@ -4,7 +4,7 @@
 
 - Primary Language: JavaScript
 - Favorite Frameworks: Node.js, Discord.js, Vue.js
-- Currently Learning: Python, Unity Engine
+- Currently Learning: Python
 - Etc: GUI Design (Web, Mobile App, VR App)
 
 ## 연락처
