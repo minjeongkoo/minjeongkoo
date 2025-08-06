@@ -1,4 +1,3 @@
-(Currently developing kitschy industrial software.)
 I want to create software that helps everyone live and work in a safe environment.
 
 - Primary Language: JavaScript
