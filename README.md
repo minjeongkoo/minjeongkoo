@@ -8,4 +8,4 @@ I want to create software that helps everyone live and work in a safe environmen
 - SNS (Discord): rekenzo#3030
 
 ---
-2025 Vacation 07/29 ~ 08/10
+2025 Vacation 07/29 ~ 08/10, 12/01 ~ 12/31
