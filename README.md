@@ -2,11 +2,10 @@
 주로 공장 및 설비 데이터 시각화를 담당하고 있습니다.
 
 - Primary Language: JS
-- Favorite Frameworks: Discord.js, Vue.js, SAPUI5
+- Favorite Frameworks: Vue.js, SAPUI5, Discord.js
 - Currently Learning: About 'Network'
 - Domain: IIoT, Factory Data Visualization
 - Etc: GUI Design (Web, Mobile App, VR App)
-
 - SNS (Discord): rekenzo#3030
 
 ---
